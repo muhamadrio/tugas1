@@ -9,6 +9,5 @@
 <body>
 <marquee behavior="" direction="">hello world</marquee>
     <h1>Hello World</h1>
-    <h2>hello world</h2>
 </body>
 </html>
